@@ -12,5 +12,12 @@
     "glider": "Ventus-3F",
     "comp": "Avoin",
     "flarm": ["D01CE6"]
+  },
+  {
+    "name": "Juha Sorri [FIN]",
+    "cn": "AM",
+    "glider": "Arcus M",
+    "comp": "Avoin",
+    "flarm": ["D02159"]
   }
 ]
