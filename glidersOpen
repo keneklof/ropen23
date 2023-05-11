@@ -40,5 +40,19 @@
     "glider": "LS-8a",
     "comp": "Avoin",
     "flarm": ["DDD991"]
+  },
+  {
+    "name": "Hannu Halonen [FIN]",
+    "cn": "W",
+    "glider": "Ventus-3T",
+    "comp": "Avoin",
+    "flarm": ["465BD2"]
+  },
+  {
+    "name": "Petri Sucksdorff [FIN]",
+    "cn": "WS",
+    "glider": "AS33Es",
+    "comp": "Avoin",
+    "flarm": ["D01366"]
   }
 ]
