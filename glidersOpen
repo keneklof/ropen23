@@ -1,55 +1,55 @@
 [
   {
-    "name": "Martti Koivula [FIN]",
+    "name": "Martti Koivula [Räyskälän Ilmailukerho]",
     "cn": "ZO",
     "glider": "JS1C Evo 21m Jet",
     "comp": "Avoin",
     "flarm": ["DDEDCD"]
   },
   {
-    "name": "Tapio Tourula/Nuutti Kankare [FIN]",
+    "name": "Tapio Tourula/Nuutti Kankare [Cumulus]",
     "cn": "3F",
     "glider": "Ventus-3F",
     "comp": "Avoin",
     "flarm": ["D01CE6"]
   },
   {
-    "name": "Juha Sorri [FIN]",
+    "name": "Juha Sorri [Kuopion Ilmailuyhdistys]",
     "cn": "AM",
     "glider": "Arcus M",
     "comp": "Avoin",
     "flarm": ["D02159"]
   },
   {
-    "name": "Rissanen/Rissanen [FIN]",
+    "name": "Rissanen/Rissanen [Räyskälän Ilmailukerho]",
     "cn": "EX",
     "glider": "EB 28 Edition",
     "comp": "Avoin",
     "flarm": ["D0042C"]
   },
   {
-    "name": "Martti Sucksdorff [FIN]",
+    "name": "Martti Sucksdorff [Räyskälän Ilmailukerho]",
     "cn": "HIK",
     "glider": "Duo Discus XL",
     "comp": "Avoin",
     "flarm": ["-----"]
   },
   {
-    "name": "Hannu Niemi [FIN]",
+    "name": "Hannu Niemi [Nuorisoilmailijat]",
     "cn": "N8",
     "glider": "LS-8a",
     "comp": "Avoin",
     "flarm": ["DDD991"]
   },
   {
-    "name": "Hannu Halonen [FIN]",
+    "name": "Hannu Halonen [Hyvinkään Ilmailukerho]",
     "cn": "W",
     "glider": "Ventus-3T",
     "comp": "Avoin",
     "flarm": ["465BD2"]
   },
   {
-    "name": "Petri Sucksdorff [FIN]",
+    "name": "Petri Sucksdorff [Räyskälän Ilmailukerho]",
     "cn": "WS",
     "glider": "AS33Es",
     "comp": "Avoin",
