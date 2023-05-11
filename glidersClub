@@ -5,5 +5,19 @@
     "glider": "Discus a",
     "comp": "Kerho",
     "flarm": ["DDC038"]
+  },
+  {
+    "name": "Kimmo Pulkki[Nuorisoilmailijat]",
+    "cn": "BL",
+    "glider": "PIK-20D",
+    "comp": "Kerho",
+    "flarm": ["DDDA72"]
+  },
+  {
+    "name": "Marko Virtanen & Pekka Mustakallio[Cumulus]",
+    "cn": "C9",
+    "glider": "DG-1000T",
+    "comp": "Kerho",
+    "flarm": ["465BDE"]
   }
 ]
