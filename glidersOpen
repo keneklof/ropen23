@@ -3,7 +3,14 @@
     "name": "Martti Koivula [FIN]",
     "cn": "ZO",
     "glider": "JS1C Evo 21m Jet",
-    "comp": "Janne",
+    "comp": "Avoin",
     "flarm": ["DDEDCD"]
+  },
+  {
+    "name": "Tapio Tourula/Nuutti Kankare [FIN]",
+    "cn": "3F",
+    "glider": "Ventus-3F",
+    "comp": "Avoin",
+    "flarm": ["D01CE6"]
   }
 ]
