@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "kerho",
+          "name": "Räyskälä Open 2023 - Kerholuokka",
+          "short": "Räyskälä Open - Kerho",
+          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/kerho",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/ropen23/main/glidersClub"
+}
