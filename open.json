@@ -1,0 +1,12 @@
+{
+  "comps": [
+      {
+          "id": "open",
+          "name": "Räyskälä Open 2023 - Avoin luokka",
+          "short": "Räyskälä Open - Avoin",
+          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/kerho",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/ropen23/main/glidersOpen"
+}
