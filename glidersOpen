@@ -5,44 +5,5 @@
     "glider": "JS1C Evo 21m Jet",
     "comp": "Janne",
     "flarm": ["DDEDCD"]
-  },
-  {
-    "name": "Heimo Hänninen [FIN]",
-    "cn": "LK",
-    "glider": "LS-8st",
-    "comp": "Janne",
-    "flarm": ["465BA0"]
-  },
-  {
-    "name": "Marko Virtanen [FIN]",
-    "cn": "C9",
-    "glider": "DG-1000t",
-    "comp": "Janne",
-    "flarm": ["---"]
-  },
-  {
-    "name": "Antti Taimioja [FIN]",
-    "cn": "DUO",
-    "glider": "Duo Discus",
-    "comp": "Janne",
-    "flarm": ["---"]
-  }, {
-    "name": "Janne Virki [FIN]",
-    "cn": "19",
-    "glider": "ASG-29E",
-    "comp": "Janne",
-    "flarm": ["3ECE96"]
-  }, {
-    "name": "Kai Kuusela [FIN]",
-    "cn": "2A",
-    "glider": "ASG-32Mi",
-    "comp": "Janne",
-    "flarm": ["D014F7"]
-  }, {
-    "name": "Heikki Horma [FIN]",
-    "cn": "EZ",
-    "glider": "ASG-29",
-    "comp": "Janne",
-    "flarm": ["DDE439"]
-  }, {}
+  }
 ]
