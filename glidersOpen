@@ -19,5 +19,26 @@
     "glider": "Arcus M",
     "comp": "Avoin",
     "flarm": ["D02159"]
+  },
+  {
+    "name": "Rissanen/Rissanen [FIN]",
+    "cn": "EX",
+    "glider": "EB 28 Edition",
+    "comp": "Avoin",
+    "flarm": ["D0042C"]
+  },
+  {
+    "name": "Martti Sucksdorff [FIN]",
+    "cn": "HIK",
+    "glider": "Duo Discus XL",
+    "comp": "Avoin",
+    "flarm": ["-----"]
+  },
+  {
+    "name": "Hannu Niemi [FIN]",
+    "cn": "N8",
+    "glider": "LS-8a",
+    "comp": "Avoin",
+    "flarm": ["DDD991"]
   }
 ]
