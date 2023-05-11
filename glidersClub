@@ -19,5 +19,33 @@
     "glider": "DG-1000T",
     "comp": "Kerho",
     "flarm": ["465BDE"]
+  },
+  {
+    "name": "Sara Salonen[KILY]",
+    "cn": "FI",
+    "glider": "LS-4",
+    "comp": "Kerho",
+    "flarm": ["DF13CF"]
+  },
+  {
+    "name": "Mikko Ylihärsilö[Kuopion Ilmailuyhdistys]",
+    "cn": "GE",
+    "glider": "LS-7",
+    "comp": "Kerho",
+    "flarm": ["D0054A"]
+  },
+  {
+    "name": "Juha Haapajärvi[Oulun Ilmailukerho]",
+    "cn": "JH",
+    "glider": "Lak 17B Mini FES",
+    "comp": "Kerho",
+    "flarm": ["------"]
+  },
+  {
+    "name": "Kim Toppari[Hyvinkään Ilmailukerho]",
+    "cn": "KT",
+    "glider": "LS-7",
+    "comp": "Kerho",
+    "flarm": ["D00D2F"]
   }
 ]
