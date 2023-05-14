@@ -47,5 +47,12 @@
     "glider": "LS-7",
     "comp": "Kerho",
     "flarm": ["D00D2F"]
+  },
+  {
+    "name": "Hannu Niemi [Nuorisoilmailijat]",
+    "cn": "N8",
+    "glider": "LS-8a",
+    "comp": "Avoin",
+    "flarm": ["DDD991"]
   }
 ]
